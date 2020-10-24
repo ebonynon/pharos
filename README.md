@@ -12,3 +12,7 @@ npm clean
 
 Modify in July 2016. by Yuan Liang (yuanliang@me.com)
 Thanks Stefan Djokic(djokics@elfak.rs) for Developed Journal Ghost theme in July 2015.
+
+```
+test one
+```
