@@ -16,4 +16,5 @@ Thanks Stefan Djokic(djokics@elfak.rs) for Developed Journal Ghost theme in July
 ```
 test one
 test two
+test three
 ```
